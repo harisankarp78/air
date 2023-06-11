@@ -1,1 +1,1 @@
-Sitemap: /air/AirBanyan/sitemap.xml
+Sitemap: http://localhost:4000/sitemap.xml
