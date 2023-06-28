@@ -3,7 +3,7 @@ layout: post
 title:  "Why Air-Banyan?"
 author: hari
 categories: [ Blog ]
-image: assets/images/report.jpg
+image: assets/images/air.jpg
 tags: [featured]
 ---
 
