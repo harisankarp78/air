@@ -2,7 +2,7 @@
 layout: post
 title:  "Why Air-Banyan?"
 author: hari
-categories: [ Jekyll, tutorial ]
+categories: [ Blog ]
 image: assets/images/report.jpg
 tags: [featured]
 ---
