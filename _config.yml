@@ -38,7 +38,7 @@ authors:
     hari:
       name:           Harisankar P
       site:           https://www.wowthemes.net
-      avatar:         assets/images/avatar1.jpg
+      avatar:         /assets/images/avatar1.jpg
       bio:            "Hi, I am Harisankar P, the author of this blog, the theme you're currently previewing. I hope you like it!"
       email:          wowthemesnet@gmail.com
       twitter:        https://twitter.com/wowthemesnet
